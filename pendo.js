@@ -1,4 +1,3 @@
-<script>
 (function(apiKey){
     (function(p,e,n,d,o){var v,w,x,y,z;o=p[d]=p[d]||{};o._q=o._q||[];
     v=['initialize','identify','updateOptions','pageLoad','track'];for(w=0,x=v.length;w<x;++w)(function(m){
@@ -34,4 +33,3 @@
             }
         });
 })('b358655e-422e-4780-71ed-bdd5564f1f0b');
-</script>
